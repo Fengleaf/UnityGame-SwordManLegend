@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 634244510
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e02ea7f7d08e78b4da5a3d26d8e9269d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/HContent/HSpecial/mx.png
+- Assets/Resources/HContent/HSpecial/ttp.png
+- Assets/Resources/HContent/HSpecial/2rt.png
+- Assets/Resources/HContent/HSpecial/nx.png
+- Assets/Resources/HContent/HSpecial/sw.png
+- Assets/Resources/HContent/HSpecial/p_3.png
+- Assets/Resources/HContent/HSpecial/xp_4.png
+- Assets/Resources/HContent/HSpecial/skplb.png
+- Assets/Resources/HContent/HSpecial/xb_1.png
+- Assets/Resources/HContent/HSpecial/xp_2.png
+- Assets/Resources/HContent/HSpecial/skplbws.png
+- Assets/Resources/HContent/HSpecial/1rt.png
+- Assets/Resources/HContent/HSpecial/xb_4.png
+- Assets/Resources/HContent/HSpecial/xb_5.png
+- Assets/Resources/HContent/HSpecial/b_2.png
+- Assets/Resources/HContent/HSpecial/xp_3.png
+- Assets/Resources/HContent/HSpecial/rx.png
+- Assets/Resources/HContent/HSpecial/ns.png
+- Assets/Resources/HContent/HSpecial/gctx.png
+- Assets/Resources/HContent/HSpecial/nxdd.png
+- Assets/Resources/HContent/HSpecial/xp_5.png
+- Assets/Resources/HContent/HSpecial/xb_2.png
+- Assets/Resources/HContent/HSpecial/ksj.png
+- Assets/Resources/HContent/HSpecial/rpg.png
+- Assets/Resources/HContent/HSpecial/xp_6.png
+- Assets/Resources/HContent/HSpecial/xb_6.png
+- Assets/Resources/HContent/HSpecial/xb_3.png
+- Assets/Resources/HContent/HSpecial/xp_7.png
+- Assets/Resources/HContent/HSpecial/k.png
+- Assets/Resources/HContent/HSpecial/ttpsj.png
+- Assets/Resources/HContent/HSpecial/3rt.png
+- Assets/Resources/HContent/HSpecial/xb_8.png
+- Assets/Resources/HContent/HSpecial/q.png
+- Assets/Resources/HContent/HSpecial/s.png
+- Assets/Resources/HContent/HSpecial/cp.png
+- Assets/Resources/HContent/HSpecial/xb_7.png
+- Assets/Resources/HContent/HSpecial/ssj.png
+- Assets/Resources/HContent/HSpecial/scs.png
+- Assets/Resources/HContent/HSpecial/xp_1.png
+- Assets/Resources/HContent/HSpecial/tkrt.png
+Dependencies: []

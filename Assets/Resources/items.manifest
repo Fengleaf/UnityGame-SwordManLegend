@@ -1,0 +1,92 @@
+ManifestFileVersion: 0
+CRC: 2933383730
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e8e44e1e3b0e6a800cebbc6e859d9ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d18ce6348baf32adab465942348dbb88
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f0af3222b33f0cc4b9d15fa7371b685e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a285f11326dcf3b449763542b9e18e2f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e9ae8f352fc2714abaaa69a7f9ad284, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 803ddab77927bce46946e8f245748c00, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 340901a9d8d97bd43abdfe247e210193, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73e36b9ad63e5de4391fbd5982a475c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5458eb6e0f39d9849b7b2544a5ad24dd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 182
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 250
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Weapons/InitialSword.prefab
+- Assets/Prefabs/Weapons/DemonSword.prefab
+- Assets/Prefabs/Effects/WeatherMakerPrefab2D.prefab
+- Assets/Prefabs/Weapons/GuardianSword.prefab
+- Assets/Prefabs/Items/Red Potion.prefab
+- Assets/Prefabs/Weapons/WhiteSword.prefab
+- Assets/Prefabs/Items/Blue Potion.prefab
+- Assets/Prefabs/Weapons/GuardianSword 1.prefab
+- Assets/Prefabs/Items/Big Blue Potion.prefab
+- Assets/Prefabs/Items/Big Red Potion.prefab
+- Assets/Prefabs/Effects/Damage Text.prefab
+- Assets/Prefabs/Effects/Balloon.prefab
+- Assets/Prefabs/Effects/Boss Drop Effect.prefab
+Dependencies: []

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Wall
+  - SkillTree
+  - Boss
+  - Item
+  - Weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Enemy
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Character
+    uniqueID: 661845537
+    locked: 0
+  - name: Item
+    uniqueID: 1980847817
+    locked: 0
+  - name: Skill
+    uniqueID: 4178151501
+    locked: 0
+  - name: ForeGround
+    uniqueID: 367183779
+    locked: 0
+  - name: UI
+    uniqueID: 4188528347
+    locked: 0

@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 4163524295
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: hcontent
+      Dependencies:
+        Dependency_0: hspecial
+    Info_1:
+      Name: hspecial
+      Dependencies: {}
